@@ -1,3 +1,3 @@
 # git_test2
-My second GitHub repo! 
+My second (and best) Git Hub repo! 
 Hello Odin! 
