@@ -3,3 +3,5 @@ This time I am trying to just go for consistency and not rush things
 Hopefully it means that I will not burn out on it 
 
 I'm adding this line to remind myself how to push commmits  
+
+Now I've added this text to test writing a commit message with multiple lines
